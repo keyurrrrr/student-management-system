@@ -22,12 +22,11 @@ The Weather App is a desktop application developed in Python using Tkinter. It f
 
 ## 📂 Project Structure
 
-```
-WeatherApp/
+student-management-system/
 │
 ├── main.py
-├── README.md
-```
+├── student.db
+└── README.md
 
 ## ▶️ How to Run
 
