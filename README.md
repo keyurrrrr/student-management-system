@@ -1,69 +1,61 @@
-# 🌦️ Weather App
+ 🎓 Student Management System
 
-## 📌 Overview
+ 📌 Overview
 
-The Weather App is a desktop application developed in Python using Tkinter. It fetches real-time weather information from the OpenWeatherMap API and displays temperature, humidity, and weather conditions for any city.
+The Student Management System is a Python-based console application developed to manage student records efficiently. It allows users to perform CRUD (Create, Read, Update, Delete) operations using an SQLite database.
 
-## 🚀 Features
+ 🚀 Features
 
-- Search Weather by City
-- Real-Time Temperature
-- Humidity Information
-- Weather Description
-- User-Friendly GUI
-- Error Handling
+- Add Student
+- View Students
+- Search Student
+- Update Student
+- Delete Student
+- SQLite Database Integration
+- Simple Menu-Driven Interface
 
-## 🛠️ Technologies Used
+ 🛠️ Technologies Used
 
-- Python
-- Tkinter
-- Requests Library
-- OpenWeatherMap API
+- Python 3
+- SQLite3
+- VS Code
 
-## 📂 Project Structure
+ 📂 Project Structure
 
-student-management-system/
+```
+StudentManagementSystem/
 │
 ├── main.py
 ├── student.db
-└── README.md
-
-## ▶️ How to Run
-
-Install the required package:
-
-```
-pip install requests
+├── README.md
 ```
 
-Run:
+ ▶️ How to Run
+
+1. Install Python 3.
+2. Clone this repository.
+3. Open the project in VS Code.
+4. Run:
 
 ```
 python main.py
 ```
 
-## 📸 Output
+ 📸 Output
 
-Displays:
+- Add Student
+- View Student Records
+- Update Student Information
+- Delete Student Records
 
-- City Name
-- Country
-- Temperature
-- Humidity
-- Weather Condition
+ 🎯 Learning Outcomes
 
-## API Used
-
-OpenWeatherMap API
-
-## 🎯 Learning Outcomes
-
-- REST API Integration
-- JSON Parsing
-- GUI Development
-- Exception Handling
 - Python Programming
+- Functions
+- Database Operations
+- SQLite Integration
+- CRUD Operations
 
-## 👨‍💻 Author
+ 👨‍💻 Author
 
 Keyur Patle
